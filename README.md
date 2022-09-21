@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brally-dev
+- 👋 Hi, I’m Ben Wekesa.
 -  A kenyan Developer currently freelancing.
 -  I am undertaking a role as a tech coordinator.
 - 👀 I’m interested in data management and backend development
